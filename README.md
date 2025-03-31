@@ -16,6 +16,9 @@ This project creates an interactive dashboard to explore the Belly Button Biodiv
 
 ## Usage
 
+![image](https://github.com/user-attachments/assets/d20bfc61-c9bc-41cd-9e19-87f2c46c6905)
+
+
 1.  **Select a Sample ID:**
     * Use the dropdown menu labeled "Test Subject ID Number" to select a sample ID.
 
