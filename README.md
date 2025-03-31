@@ -8,6 +8,12 @@ This project creates an interactive dashboard to explore the Belly Button Biodiv
 * **Bacteria Cultures Per Sample:** A bubble chart showing the relationship between OTU IDs, sample values, and OTU labels.
 * **Demographic Information:** A panel displaying the demographic information for the selected sample.
 
+## Files
+
+* **`index.html`:** The main HTML file for the dashboard.
+* **`static/js/app.js`:** The JavaScript file containing the logic for the dashboard.
+* **`samples.json`:** The JSON file containing the Belly Button Biodiversity dataset (hosted remotely).
+
 ## Usage
 
 1.  **Select a Sample ID:**
@@ -18,12 +24,6 @@ This project creates an interactive dashboard to explore the Belly Button Biodiv
         * A horizontal bar chart showing the top 10 OTUs.
         * A bubble chart showing the distribution of OTUs.
         * A panel displaying the demographic information.
-
-## Files
-
-* **`index.html`:** The main HTML file for the dashboard.
-* **`static/js/app.js`:** The JavaScript file containing the logic for the dashboard.
-* **`samples.json`:** The JSON file containing the Belly Button Biodiversity dataset (hosted remotely).
 
 ## Dependencies
 
