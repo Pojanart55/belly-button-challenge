@@ -16,6 +16,8 @@ This project creates an interactive dashboard to explore the Belly Button Biodiv
 
 ## App Deployment
 The site is successfully deplyed to Github pages:  https://pojanart55.github.io/belly-button-challenge/
+![image](https://github.com/user-attachments/assets/c3fa677f-44ba-4ffc-9b7e-6d575504cd72)
+
 
 ## Usage
 
