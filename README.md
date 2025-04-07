@@ -14,6 +14,9 @@ This project creates an interactive dashboard to explore the Belly Button Biodiv
 * **`static/js/app.js`:** The JavaScript file containing the logic for the dashboard.
 * **`samples.json`:** The JSON file containing the Belly Button Biodiversity dataset (hosted remotely).
 
+## App Deployment
+The site is successfully deplyed to Github pages:  https://pojanart55.github.io/belly-button-challenge/
+
 ## Usage
 
 ![image](https://github.com/user-attachments/assets/d20bfc61-c9bc-41cd-9e19-87f2c46c6905)
